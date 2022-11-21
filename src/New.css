@@ -1,0 +1,175 @@
+.android-large-2 {
+    color: #c0bebe;
+    text-align: center;
+    width: 100%;
+    height: 200%;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: stretch;
+    padding-bottom: 45px;
+    padding-left: 1px;
+    font-family: Inconsolata;
+    font-size: 1.188rem;
+    font-weight: 400;
+    line-height: 20px;
+    display: flex;
+  }
+  .ellipse-7 {
+    width: 287px;
+    height: 179px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    align-self: center;
+    background-image: url("farma.png");
+  }
+  
+  .rectangle-25 {
+    color: #0b0a0a;
+    width: 100%;
+    background-color: #628657;
+    flex-direction: row;
+    flex-basis: 7%;
+    justify-content: center;
+    align-self: flex-end;
+    align-items: center;
+    margin-bottom: 7px;
+    font-family: Magra;
+    font-size: 2.25rem;
+    line-height: 44px;
+    display: flex;
+  }
+  
+  .name {
+    color: #000c;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    line-height: 21px;
+    text-align: center;
+  }
+  
+  .rectangle-3 {
+    width: 300px;
+    background-color: #6f799aeb;
+    border: 1px solid #3b4250;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: center;
+    margin-left: 8px;
+    padding-top: 1px;
+    padding-left: 15px;
+    display: flex;
+    margin:20px 640px;
+  }
+  
+  .phone-number-e-mail {
+    color: #0f0f0fe0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    align-self: center;
+    font-size: 25px;
+    line-height: 21px;
+  }
+  
+  .rectangle-9 {
+    width: 300px;
+    background-color: #99767ee3;
+    border: 1px solid #000;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    margin-left: 8px;
+    padding-right: 1px;
+    display: flex;
+    margin:20px 640px;
+  }
+  
+  .password {
+    color: #080808c7;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 37px;
+    font-size: 25px;
+    line-height: 21px;
+  }
+  
+  .rectangle-8 {
+    width: 300px;
+    background-color: #7d6685cc;
+    border: 1px solid #000;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: center;
+    margin-left: 8px;
+    padding-bottom: 2px;
+    padding-left: 13px;
+    display: flex;
+    margin:20px 640px;
+  }
+  
+  .enter-password {
+    margin-bottom: 1px;
+  }
+  
+  .user-name {
+    color: #0e0d0dcc;
+    margin-left: 34px;
+    font-size: 25px;
+    line-height: 21px;
+  }
+  
+  .rectangle-27 {
+    color: #fff;
+    width: 250px;
+    background-color: #8d856b;
+    border: 1px solid #000;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: flex-start;
+    margin:100px 1000px;
+    align-self: center;
+    align-items: center;
+    margin-bottom: 35px;
+    padding-bottom: 1px;
+    padding-left: 13px;
+    padding-right: 1px;
+    display: flex;
+  }
+  
+  .enter-your-user-name {
+    margin-bottom: 1px;
+  }
+  
+  .rectangle-28 {
+    color: #110e0e;
+    text-align: center;
+    width: 350px;
+    height:10%;
+    margin:20px 640px;
+    background-color: #bbc9b7;
+    border: none;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    margin-top: 4px;
+    margin-bottom: 7px;
+    padding-top: 2px;
+    font-family: Inconsolata;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 21px;
+    display: flex;
+  }
+  
+  .register {
+    margin-top: 1px;
+  }

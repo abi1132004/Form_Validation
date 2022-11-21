@@ -1,5 +1,6 @@
 import React from 'react';
 import './form.css';
+import './App.css';
 class RegisterForm extends React.Component {
     constructor() {
       super();
